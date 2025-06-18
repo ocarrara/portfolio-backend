@@ -1,4 +1,4 @@
-namespace PortfolioApp.Models
+namespace PortfolioApi.Models
 {
     public class PortfolioItem
     {

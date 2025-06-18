@@ -1,30 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "/home/lmassa/Scrivania/Portfolio/PortfolioApi/PortfolioApi.csproj": {}
+    "/Users/oscarunix/Downloads/From Linux/Tirocini2025/Portfolio-stage/PortfolioApi.csproj": {}
   },
   "projects": {
-    "/home/lmassa/Scrivania/Portfolio/PortfolioApi/PortfolioApi.csproj": {
+    "/Users/oscarunix/Downloads/From Linux/Tirocini2025/Portfolio-stage/PortfolioApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/lmassa/Scrivania/Portfolio/PortfolioApi/PortfolioApi.csproj",
+        "projectUniqueName": "/Users/oscarunix/Downloads/From Linux/Tirocini2025/Portfolio-stage/PortfolioApi.csproj",
         "projectName": "PortfolioApi",
-        "projectPath": "/home/lmassa/Scrivania/Portfolio/PortfolioApi/PortfolioApi.csproj",
-        "packagesPath": "/home/lmassa/.nuget/packages/",
-        "outputPath": "/home/lmassa/Scrivania/Portfolio/PortfolioApi/obj/",
+        "projectPath": "/Users/oscarunix/Downloads/From Linux/Tirocini2025/Portfolio-stage/PortfolioApi.csproj",
+        "packagesPath": "/Users/oscarunix/.nuget/packages/",
+        "outputPath": "/Users/oscarunix/Downloads/From Linux/Tirocini2025/Portfolio-stage/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/lmassa/.nuget/NuGet/NuGet.Config"
+          "/Users/oscarunix/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net8.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -32,29 +32,34 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[6.0.21, )"
+              "version": "[9.0.6, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[6.0.21, )"
+              "version": "[9.0.6, )"
             },
             "Npgsql.EntityFrameworkCore.PostgreSQL": {
               "target": "Package",
-              "version": "[6.0.7, )"
+              "version": "[9.0.4, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[6.4.0, )"
+              "version": "[8.1.4, )"
             }
           },
           "imports": [
@@ -63,7 +68,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -75,7 +81,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/6.0.135/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/Users/oscarunix/.dotnet/sdk/8.0.406/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

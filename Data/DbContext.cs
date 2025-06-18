@@ -1,12 +1,10 @@
 using Microsoft.EntityFrameworkCore;
-using PortfolioApp.Models;
+using PortfolioApi.Models;
 
-namespace PortfolioApp.Data
+namespace PortfolioApi.Data
 {
-    public class AppDbContext : DbContext
+    public class AppDbContext(DbContextOptions<AppDbContext> options) : DbContext(options)
     {
-        public AppDbContext(DbContextOptions<AppDbContext> options) : base(options) {}
-
         public DbSet<PortfolioItem> PortfolioItems { get; set; } = null!;
 
     }

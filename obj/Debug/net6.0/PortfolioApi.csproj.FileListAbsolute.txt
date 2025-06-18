@@ -35,3 +35,46 @@
 /home/lmassa/Scrivania/Portfolio/PortfolioApi/obj/Debug/net6.0/PortfolioApi.genruntimeconfig.cache
 /home/lmassa/Scrivania/Portfolio/PortfolioApi/bin/Debug/net6.0/Humanizer.dll
 /home/lmassa/Scrivania/Portfolio/PortfolioApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/oscarunix/Downloads/From Linux/Tirocini2025/Portfolio-stage/bin/Debug/net6.0/appsettings.Development.json
+/Users/oscarunix/Downloads/From Linux/Tirocini2025/Portfolio-stage/bin/Debug/net6.0/appsettings.json
+/Users/oscarunix/Downloads/From Linux/Tirocini2025/Portfolio-stage/bin/Debug/net6.0/PortfolioApi
+/Users/oscarunix/Downloads/From Linux/Tirocini2025/Portfolio-stage/bin/Debug/net6.0/PortfolioApi.deps.json
+/Users/oscarunix/Downloads/From Linux/Tirocini2025/Portfolio-stage/bin/Debug/net6.0/PortfolioApi.runtimeconfig.json
+/Users/oscarunix/Downloads/From Linux/Tirocini2025/Portfolio-stage/bin/Debug/net6.0/PortfolioApi.dll
+/Users/oscarunix/Downloads/From Linux/Tirocini2025/Portfolio-stage/bin/Debug/net6.0/PortfolioApi.pdb
+/Users/oscarunix/Downloads/From Linux/Tirocini2025/Portfolio-stage/bin/Debug/net6.0/Humanizer.dll
+/Users/oscarunix/Downloads/From Linux/Tirocini2025/Portfolio-stage/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/oscarunix/Downloads/From Linux/Tirocini2025/Portfolio-stage/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/oscarunix/Downloads/From Linux/Tirocini2025/Portfolio-stage/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/oscarunix/Downloads/From Linux/Tirocini2025/Portfolio-stage/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/oscarunix/Downloads/From Linux/Tirocini2025/Portfolio-stage/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/oscarunix/Downloads/From Linux/Tirocini2025/Portfolio-stage/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/oscarunix/Downloads/From Linux/Tirocini2025/Portfolio-stage/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/oscarunix/Downloads/From Linux/Tirocini2025/Portfolio-stage/bin/Debug/net6.0/Npgsql.dll
+/Users/oscarunix/Downloads/From Linux/Tirocini2025/Portfolio-stage/bin/Debug/net6.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/oscarunix/Downloads/From Linux/Tirocini2025/Portfolio-stage/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/oscarunix/Downloads/From Linux/Tirocini2025/Portfolio-stage/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/oscarunix/Downloads/From Linux/Tirocini2025/Portfolio-stage/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/oscarunix/Downloads/From Linux/Tirocini2025/Portfolio-stage/bin/Debug/net6.0/System.Diagnostics.DiagnosticSource.dll
+/Users/oscarunix/Downloads/From Linux/Tirocini2025/Portfolio-stage/obj/Debug/net6.0/PortfolioApi.csproj.AssemblyReference.cache
+/Users/oscarunix/Downloads/From Linux/Tirocini2025/Portfolio-stage/obj/Debug/net6.0/PortfolioApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oscarunix/Downloads/From Linux/Tirocini2025/Portfolio-stage/obj/Debug/net6.0/PortfolioApi.AssemblyInfoInputs.cache
+/Users/oscarunix/Downloads/From Linux/Tirocini2025/Portfolio-stage/obj/Debug/net6.0/PortfolioApi.AssemblyInfo.cs
+/Users/oscarunix/Downloads/From Linux/Tirocini2025/Portfolio-stage/obj/Debug/net6.0/PortfolioApi.csproj.CoreCompileInputs.cache
+/Users/oscarunix/Downloads/From Linux/Tirocini2025/Portfolio-stage/obj/Debug/net6.0/PortfolioApi.MvcApplicationPartsAssemblyInfo.cs
+/Users/oscarunix/Downloads/From Linux/Tirocini2025/Portfolio-stage/obj/Debug/net6.0/PortfolioApi.MvcApplicationPartsAssemblyInfo.cache
+/Users/oscarunix/Downloads/From Linux/Tirocini2025/Portfolio-stage/obj/Debug/net6.0/PortfolioApi.sourcelink.json
+/Users/oscarunix/Downloads/From Linux/Tirocini2025/Portfolio-stage/obj/Debug/net6.0/staticwebassets.build.json
+/Users/oscarunix/Downloads/From Linux/Tirocini2025/Portfolio-stage/obj/Debug/net6.0/staticwebassets.development.json
+/Users/oscarunix/Downloads/From Linux/Tirocini2025/Portfolio-stage/obj/Debug/net6.0/staticwebassets/msbuild.PortfolioApi.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/oscarunix/Downloads/From Linux/Tirocini2025/Portfolio-stage/obj/Debug/net6.0/staticwebassets/msbuild.build.PortfolioApi.props
+/Users/oscarunix/Downloads/From Linux/Tirocini2025/Portfolio-stage/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.PortfolioApi.props
+/Users/oscarunix/Downloads/From Linux/Tirocini2025/Portfolio-stage/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.PortfolioApi.props
+/Users/oscarunix/Downloads/From Linux/Tirocini2025/Portfolio-stage/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/oscarunix/Downloads/From Linux/Tirocini2025/Portfolio-stage/obj/Debug/net6.0/scopedcss/bundle/PortfolioApi.styles.css
+/Users/oscarunix/Downloads/From Linux/Tirocini2025/Portfolio-stage/obj/Debug/net6.0/Portfoli.F681FCC7.Up2Date
+/Users/oscarunix/Downloads/From Linux/Tirocini2025/Portfolio-stage/obj/Debug/net6.0/PortfolioApi.dll
+/Users/oscarunix/Downloads/From Linux/Tirocini2025/Portfolio-stage/obj/Debug/net6.0/refint/PortfolioApi.dll
+/Users/oscarunix/Downloads/From Linux/Tirocini2025/Portfolio-stage/obj/Debug/net6.0/PortfolioApi.pdb
+/Users/oscarunix/Downloads/From Linux/Tirocini2025/Portfolio-stage/obj/Debug/net6.0/PortfolioApi.genruntimeconfig.cache
+/Users/oscarunix/Downloads/From Linux/Tirocini2025/Portfolio-stage/obj/Debug/net6.0/ref/PortfolioApi.dll
