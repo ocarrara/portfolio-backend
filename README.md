@@ -15,5 +15,3 @@ dotnet add package Microsoft.EntityFrameworkCore.Design --version 6.0.21
 dotnet ef migrations add InitialCreate
 dotnet ef database update
 dotnet run
-
-
